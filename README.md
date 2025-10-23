@@ -136,6 +136,16 @@ The application can be deployed to various platforms:
 - **Netlify**: Connect your GitHub repository for automatic deployments
 - **GitHub Pages**: Use GitHub Actions for automated deployment
 
+## 🌐 Live Demo
+
+**🚀 [View Live Application](https://react-js-jsx-and-css-mastering-fron-beige.vercel.app/)**
+
+The application is deployed on Vercel and ready to use! You can test all features including:
+- Task management with CRUD operations
+- API integration with search and pagination
+- Dark/light mode switching
+- Responsive design on all devices
+
 ## 📸 Screenshots
 
 *Note: Screenshots would be added here showing the application in both light and dark modes, on different screen sizes, and demonstrating the key features.*
