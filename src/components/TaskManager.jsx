@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Button from './Button';
+import Card from './Card';
 
 /**
  * Custom hook for managing tasks with localStorage persistence
@@ -71,7 +72,7 @@ const TaskManager = () => {
   };
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+    <Card>
       <h2 className="text-2xl font-bold mb-6">Task Manager</h2>
 
       {/* Task input form */}
@@ -161,7 +162,7 @@ const TaskManager = () => {
           {tasks.filter((task) => !task.completed).length} tasks remaining
         </p>
       </div>
-    </div>
+    </Card>
   );
 };
 
