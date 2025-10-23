@@ -148,16 +148,16 @@ The application is deployed on Vercel and ready to use! You can test all feature
 
 ## 📸 Screenshots
 - Desktop Light mode
-<img width="1911" height="1021" alt="Screenshot 2025-10-23 100556" src="https://github.com/user-attachments/assets/0c273949-56ca-43bd-b632-4e7a3c9fdc23" />
+<img width="1500" alt="Screenshot 2025-10-23 100556" src="https://github.com/user-attachments/assets/0c273949-56ca-43bd-b632-4e7a3c9fdc23" />
 
 - Desktop Dark mode
-<img width="1908" height="1019" alt="Screenshot 2025-10-23 100615" src="https://github.com/user-attachments/assets/2008ef56-1da9-4dd0-8288-a9e1e482ead8" />
+<img width="1500" alt="Screenshot 2025-10-23 100615" src="https://github.com/user-attachments/assets/2008ef56-1da9-4dd0-8288-a9e1e482ead8" />
 
 - Mobile Light mode
 <img width="300" alt="Screenshot 2025-10-23 100556" src="https://github.com/user-attachments/assets/7347bca5-5481-46d5-a159-601b0ac9826f" />
 
 - Mobile Dark mode
-![](https://github.com/user-attachments/assets/b46321e0-ac62-41a3-bd9f-fd9a850b606c)
+<img width="300" alt="Screenshot 2025-10-23 100556" src="https://github.com/user-attachments/assets/b46321e0-ac62-41a3-bd9f-fd9a850b606c" />
 
 ## 🔧 Customization
 
