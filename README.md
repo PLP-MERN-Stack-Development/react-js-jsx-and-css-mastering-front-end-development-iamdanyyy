@@ -154,7 +154,7 @@ The application is deployed on Vercel and ready to use! You can test all feature
 <img width="1908" height="1019" alt="Screenshot 2025-10-23 100615" src="https://github.com/user-attachments/assets/2008ef56-1da9-4dd0-8288-a9e1e482ead8" />
 
 - Mobile Light mode
-![](https://github.com/user-attachments/assets/7347bca5-5481-46d5-a159-601b0ac9826f)
+<img width="300" alt="Screenshot 2025-10-23 100556" src="https://github.com/user-attachments/assets/7347bca5-5481-46d5-a159-601b0ac9826f" />
 
 - Mobile Dark mode
 ![](https://github.com/user-attachments/assets/b46321e0-ac62-41a3-bd9f-fd9a850b606c)
@@ -221,7 +221,7 @@ This project is part of the Power Learn Project (PLP) MERN Stack curriculum.
 
 ## 👨‍💻 Author
 
-**Student Name** - *Power Learn Project Student*
+**Amdany Emmanuel** - *Power Learn Project Student*
 
 ---
 
